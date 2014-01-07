@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>personalOnCall</key>
+	<string>NO</string>
+	<key>personalEmail</key>
+	<string></string>
+	<key>personalGroup</key>
+	<string></string>
+	<key>accountAPIKey</key>
+	<string></string>
+	<key>accountName</key>
+	<string></string>
+	<key>RESTType</key>
+	<string>XML</string>
+	<key>RESTUrl</key>
+	<string>https://api.webmetrics.com/node2/mod3/API</string>
+	<key>PSRESTUrl</key>
+	<string></string>
+	<key>systemRefreshMonitors</key>
+	<string>NO</string>
+</dict>
+</plist>
